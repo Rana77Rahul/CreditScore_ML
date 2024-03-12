@@ -1,2 +1,5 @@
 # CreditScore_ML
-This project aims to develop predictive models for assessing credit risk and predicting credit scores for individuals. Leveraging machine learning techniques, this project provides valuable insights into creditworthiness and enables lenders to make informed decisions about extending credit.
+
+
+##Problem Statement:
+To develop a predictive model for classifying individuals into credit score categories based on their financial data and other relevant factors. Accurate credit scoring is crucial for the financial institutions to assess the reliability of applicants and manage risk effectively as it leads to less default.
